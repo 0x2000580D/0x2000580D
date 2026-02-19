@@ -1,16 +1,11 @@
-## Hi there 👋
+<h3 align="center">Gists</h3>
 
-<!--
-**0x2000580D/0x2000580D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://gist.github.com/0x2000580D/4b7016603e628d0c430923d2ab60d986" style="text-decoration: none;">
+  <img src="https://gists-readme.yizack.com/api/pin?id=4b7016603e628d0c430923d2ab60d986&owner=false&theme=dark">
+  </a>
+    <p></p>
+  <a href="https://gist.github.com/0x2000580D/0a528aade40da54a69d9ff2131d1917a" style="text-decoration: none;">
+  <img src="https://gists-readme.yizack.com/api/pin?id=0a528aade40da54a69d9ff2131d1917a&owner=false&theme=dark">
+  </a>
+</div>
